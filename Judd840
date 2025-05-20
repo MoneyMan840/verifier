@@ -36,7 +36,14 @@ SETCP0
     85167505 PUSHINT
     s1 s3 XCHG
     EQUAL
-    <{
+    <{-p--
+exit
+   file host information 
+   under umbrella file 
+ in C drive 
+compose a written message 
+   that injest host with the 
+composed file
       s0 s1 s4 XCHG3
       s0 s3 XCHG
       s0 POP
